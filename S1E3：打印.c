@@ -1,5 +1,5 @@
 #include <stdio.h>
-//DNX写于2023年6月20日 
+//ZZHow1024写于2023年6月20日 
 int main()
 {
 	printf("printf：格式化输出函数\n\
