@@ -1,5 +1,5 @@
 #include <stdio.h>
-//DNX写于2023年6月20日 
+//ZZHow1024写于2023年6月20日 
 #define j "DNX"
 int main()
 {
