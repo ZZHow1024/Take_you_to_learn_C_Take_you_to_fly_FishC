@@ -1,5 +1,5 @@
 #include <stdio.h>
-//DNX写于2023年6月20日 
+//ZZHow1024写于2023年6月20日 
 
 #define NAME "鱼C工作室" //这是一个常量。 
 
